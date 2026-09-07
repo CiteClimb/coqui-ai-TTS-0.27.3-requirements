@@ -16,6 +16,8 @@ networkx==3.6.1
 PyYAML==6.0.3
 threadpoolctl==3.6.0
 tbb==2021.13.1
+intel-openmp==2021.4.0
+mkl==2021.4.0
 idna==3.11
 anyio==4.12.1
 MarkupSafe==3.0.3
@@ -73,7 +75,6 @@ httpx==0.28.1
 huggingface_hub==0.36.2
 tokenizers==0.22.2
 inflect==7.5.0
-intel-openmp==2021.4.0
 isoduration==20.11.0
 jaconv==0.4.1
 jedi==0.19.2
@@ -94,7 +95,6 @@ mdurl==0.1.2
 mecab-ko==1.0.2
 mecab-ko-dic==1.0.0
 mistune==3.2.0
-mkl==2021.4.0
 mojimoji==0.0.13
 monotonic-alignment-search==0.2.1
 more-itertools==10.8.0
